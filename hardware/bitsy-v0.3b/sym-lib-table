@@ -16,4 +16,5 @@
   (lib (name pkl_cypress)(type Legacy)(uri ${KIPRJMOD}/../../lib/pkl/pkl_cypress.lib)(options "")(descr ""))
   (lib (name pkl_conn)(type Legacy)(uri ${KIPRJMOD}/../../lib/pkl/pkl_conn.lib)(options "")(descr ""))
   (lib (name pkl_analog_devices)(type Legacy)(uri ${KIPRJMOD}/../../lib/pkl/pkl_analog_devices.lib)(options "")(descr ""))
+  (lib (name icebreaker-bitsy-rescue)(type Legacy)(uri ${KIPRJMOD}/icebreaker-bitsy-rescue.lib)(options "")(descr ""))
 )
